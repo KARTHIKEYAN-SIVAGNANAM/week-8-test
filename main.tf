@@ -1,7 +1,7 @@
 provider "aws" {
   region = "us-east-1"  # Use the desired region
-  access_key = "AKIAR4T234HWNW7ITZ7L"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 
 # Step 1: Create S3 Bucket with ACL Disabled
